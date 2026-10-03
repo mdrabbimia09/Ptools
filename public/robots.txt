@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+Allow: /tools/
+Allow: /categories
+Allow: /about
+Allow: /contact
+Allow: /privacy-policy
+Allow: /terms
+Allow: /cookie-policy
+Allow: /disclaimer
+
+Disallow: /api/
+Disallow: /admin/
+Disallow: /*?*q=
+
+Sitemap: https://ais-dev-ej5eiewf52m4bhpbpki2rj-128826696387.asia-east1.run.app/sitemap.xml

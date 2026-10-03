@@ -1,0 +1,8 @@
+{
+  "name": "PTools – Free Online Tools for Everyone",
+  "description": "Fast, simple, and useful browser-based online tools for calculators, converters, image processing, PDF manipulation, developer utilities, and SEO.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
